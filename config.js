@@ -1,5 +1,5 @@
 module.exports = {
-  token: 'MTM5MjgyNzE3NTgxNTYxNDUwNA.G68cYi.feqG69ppdCfqNRUxJCWIWHQGYdIsunihftIHRQ',
+  token: 'MTUwOTA4MjE4MTA3MzUwNjM5NQ.G4wH-f.fz2IyFLy8UrsG71knEHeP4x2OekhX_HLxCe8G4',
   adminRoleId: '1507806489891442858',
   moderatorRoleId: '1507806564310843403',
   roleRequestAdminRoleId: '1507806489891442858',
